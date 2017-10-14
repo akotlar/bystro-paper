@@ -1,0 +1,3 @@
+	total transitions	total transversions	total transitions:transversions ratio	exonic transitions	exonic transversions	exonic transitions:transversions ratio	exonic_in_dbSNP transitions	exonic_in_dbSNP transversions	exonic_in_dbSNP transitions:transversions ratio	ncRNA transitions	ncRNA transversions	ncRNA transitions:transversions ratio	ncRNA_in_dbSNP transitions	ncRNA_in_dbSNP transversions	ncRNA_in_dbSNP transitions:transversions ratio	nonSynonymous transitions	nonSynonymous transversions	nonSynonymous transitions:transversions ratio	nonSynonymous_in_dbSNP transitions	nonSynonymous_in_dbSNP transversions	nonSynonymous_in_dbSNP transitions:transversions ratio
+total	4	2	2	4	2	2	4	2	2	1	0	+Inf	1	0	+Inf	4	2	2	4	2	2
+NA00001	4	2	2	4	2	2	4	2	2	1	0	+Inf	1	0	+Inf	4	2	2	4	2	2
