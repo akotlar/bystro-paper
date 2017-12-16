@@ -1,0 +1,3 @@
+target_denovo corresponds to query `proband -parents Methemoglobinemia` which expands to `4805 -(1805 OR 1847) Methemoglobinemia`
+
+bystro_version_of_gemini_query.tar corresponds to query `hets:proband -parents ( maf < .005 || (not in gnomad.genomes not in gnomad.exomes not in dbsnp)) -silent exonic` which expands to `heterozygotes:4805 -(1805 OR 1847) ( (gnomad.genomes.af:<0.005 || gnomad.exomes.af:<0.005) || ((NOT _exists_:gnomad.genomes) (NOT _exists_:gnomad.exomes) (NOT _exists_:dbSNP))) -silent exonic`

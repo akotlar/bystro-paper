@@ -1,0 +1,4 @@
+#family_id sample_id paternal_id maternal_id sex phenotype ethnicity
+family1	1805	-9	-9	2	1	CEU
+family1	1847	-9	-9	1	1	CEU
+family1	4805	1847	1805	1	2	CEU
