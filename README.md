@@ -22,3 +22,5 @@
 ###### Compares Bystro to Perl scripts in matching various anotation features
 1. [Bystro_query_accuracy_comparisons](./Bystro_query_accuracy_comparisons)
 
+### Bystro/GEMINI *de novo* query comparioson
+1. [Bystro_GEMINI_denovo_comparison.tar.gz](https://s3.amazonaws.com/paper-results/Bystro_GEMINI_denovo_comparison.tar.gz)
