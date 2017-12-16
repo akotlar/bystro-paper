@@ -1,5 +1,5 @@
 # Bystro Paper Data
-###### This repo contains data pertaining to Bystro's publication
+##### This repo contains data pertaining to Bystro's publication
 
 ## Datasets used
 1. [1000G Phase3 Chr1 50K lines (**8MB**)](https://s3.amazonaws.com/1000g-vcf/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.rand50klines.vcf.gz)
@@ -18,9 +18,10 @@
     * **Warning: 890GB uncompressed**
 11. [Yen et al. 2017 accuracy test data](https://s3.amazonaws.com/1000g-vcf/13073_2016_396_MOESM2_ESM.vcf)
 
-### Query Accuracy
-###### Compares Bystro to Perl scripts in matching various anotation features
+## Query Accuracy
+##### Compares Bystro to Perl scripts in matching various anotation features
 1. [Bystro_query_accuracy_comparisons](./Bystro_query_accuracy_comparisons)
 
-### Bystro/GEMINI *de novo* query comparioson
+## Bystro/GEMINI *de novo* query comparison
+##### Identifing denovo variants using Bystro, compared with GEMINI
 1. [Bystro_GEMINI_denovo_comparison.tar.gz](https://s3.amazonaws.com/paper-results/Bystro_GEMINI_denovo_comparison.tar.gz)
