@@ -25,4 +25,4 @@
 
 ## Bystro/GEMINI *de novo* query comparison
 ##### Identifing denovo variants using Bystro, compared with GEMINI
-1. [Bystro_GEMINI_denovo_comparison.tar.gz](https://www.dropbox.com/s/sv8ydikw5glhdc6/Bystro_GEMINI_denovo_comparison.tar.gz?dl=0)
+1. [Bystro_GEMINI_denovo_comparison](./Bystro_GEMINI_denovo_comparison)
