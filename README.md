@@ -20,8 +20,9 @@
 
 ## Query Accuracy
 ##### Compares Bystro to Perl scripts in matching various anotation features
-1. [Bystro_query_accuracy_comparisons](./Bystro_query_accuracy_comparisons)
+1. Results and scripts used: [Bystro_query_accuracy_comparisons](./Bystro_query_accuracy_comparisons)
+2. Full results + raw annotations: [Bystro_query_accuracy_comparisons.tar.gz **Warning: 1.4GB**](https://www.dropbox.com/s/3o1rhp9in6pzo7k/Bystro_query_accuracy_comparisons.tar.gz?dl=0)
 
 ## Bystro/GEMINI *de novo* query comparison
 ##### Identifing denovo variants using Bystro, compared with GEMINI
-1. [Bystro_GEMINI_denovo_comparison.tar.gz](https://s3.amazonaws.com/paper-results/Bystro_GEMINI_denovo_comparison.tar.gz)
+1. [Bystro_GEMINI_denovo_comparison.tar.gz](https://www.dropbox.com/s/sv8ydikw5glhdc6/Bystro_GEMINI_denovo_comparison.tar.gz?dl=0)
