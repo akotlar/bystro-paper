@@ -1,7 +1,5 @@
 #Notes
-There is a small difference in outputs, because Elasticsearch wishes to output 0 numerical values as missing, and we don't currently normalize this behavior. Hence, for all diffs, we output the first 41 columns, before dbSNP data, which has this problem, as Allele Number is frequently 0.
-
-Similarly, it outputs the discordant field as false, because it is technically a boolean.
+There is a small difference in outputs, because Elasticsearch outputs the discordant field as false, as it is stored as a boolean, while Bystro's annotator outputs a 0, as Perl doesn't have a dedicated "false", and we have thus far chosen not to waste CPU cycles, disk space writing out "false' in the annotation.
 
 # Procedure for 1M cadd > 15:
 
