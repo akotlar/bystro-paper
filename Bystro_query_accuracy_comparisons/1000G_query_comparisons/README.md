@@ -1,5 +1,6 @@
-#Notes
-There is a small difference in outputs, because Elasticsearch outputs the discordant field as false, as it is stored as a boolean, while Bystro's annotator outputs a 0, as Perl doesn't have a dedicated "false", and we have thus far chosen not to waste CPU cycles, disk space writing out "false' in the annotation.
+# Procedurs for filtering comparisons
+
+Note: there is a small difference in outputs, because Elasticsearch outputs the discordant field as false, as it is stored as a boolean, while Bystro's annotator outputs a 0, as Perl doesn't have a dedicated "false", and we have thus far chosen not to waste CPU cycles, disk space writing out "false' in the annotation.
 
 # Procedure for 1M cadd > 15:
 
