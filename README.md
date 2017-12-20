@@ -1,5 +1,5 @@
 # Bystro Paper Data
-##### This repo contains data pertaining to Bystro's publication
+This repo contains data pertaining to Bystro's publication
 
 The preprint may be found @ https://www.biorxiv.org/content/early/2017/08/09/146514 
 
