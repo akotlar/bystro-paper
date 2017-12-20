@@ -1,6 +1,8 @@
 # Bystro Paper Data
 ##### This repo contains data pertaining to Bystro's publication
 
+The preprint may be found @ https://www.biorxiv.org/content/early/2017/08/09/146514 
+
 ## Datasets used
 1. [1000G Phase3 Chr1 50K lines (**8MB**)](https://s3.amazonaws.com/1000g-vcf/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.rand50klines.vcf.gz)
 2. [1000G Phase3 Chr1 100K lines (**17MB**)](https://s3.amazonaws.com/1000g-vcf/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.100Klines_rand.vcf.gz)
